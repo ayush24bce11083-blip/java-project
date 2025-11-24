@@ -1,1 +1,3 @@
 # java-project
+
+Library Manager is a Java-based desktop application designed to simplify and automate common library operations. It allows librarians or users to efficiently manage books, members, borrowing records, and returns through an intuitive, user-friendly interface. Built using core Java, object-oriented principles, and file handling/database integration (depending on your implementation), this project demonstrates clean architecture, modular code, and real-world problem solving. It is ideal for beginners learning Java application development as well as those exploring CRUD operations, data persistence, and basic UI/console-based workflows.
